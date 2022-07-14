@@ -1,6 +1,6 @@
 # Sonic Time Twisted NSW port
 This is a port of the fan game Sonic Time Twisted for the Nintendo Switch, the original source code can be found [here](https://github.com/overbound/SonicTimeTwisted).
-You can download the game on the releases page.
+You can download the NSP of the game on the releases page.
 
 ## Credits
 Original game by [Overbound Game Studio](https://overboundstudio.com).
