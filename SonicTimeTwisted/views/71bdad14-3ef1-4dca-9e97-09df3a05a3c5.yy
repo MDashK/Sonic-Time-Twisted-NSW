@@ -1,0 +1,33 @@
+{
+    "id": "71bdad14-3ef1-4dca-9e97-09df3a05a3c5",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "71bdad14-3ef1-4dca-9e97-09df3a05a3c5",
+    "children": [
+        "64e7fbaa-d69c-46d1-971a-d965b77a1cdc",
+        "8ab772a2-2a29-40a2-aa13-ff007ee266ff",
+        "acbd1901-9055-4014-ab5d-5e7804a289fb",
+        "d6bab8c1-c440-45db-8a66-8ab7bf1e3a66",
+        "7a039b35-fc6a-4005-b4bb-604580e8005b",
+        "260551ca-6ee9-4647-9764-e437cdb70127",
+        "1eff61fc-b8f3-4b25-a9c0-b79eb0f10478",
+        "95cfa0dc-a45b-46d3-8e1f-281bcc18debc",
+        "81a1c743-b3c4-45e3-9cd6-6d91dfcc0177",
+        "b482f29f-7454-4379-b407-f375cae11be2",
+        "c0840201-e458-475b-bd5e-9ecee6a31bab",
+        "d2c4cbd7-dc34-43f9-b4bd-e1206a8420b0",
+        "10e5176f-450a-45be-8975-2e237db01ef1",
+        "02972cf2-f89a-49f9-9852-627d784933df",
+        "4ee34c37-a695-4690-9492-b0b8eb1a4772",
+        "2a19cee3-1d98-479a-a1ed-4c8d701a7fbe",
+        "9a185194-65fa-4388-8b35-0eff2a55cb27",
+        "c2223d6d-71f7-403f-b7ad-30082be1fefa",
+        "02f063bd-8269-400f-9001-a5aa9f9037d4",
+        "096ba72b-79e2-426b-9fd9-5094f90a68da",
+        "75df9bed-3b59-4cb3-8cd3-cb878821b9aa"
+    ],
+    "filterType": "GMSound",
+    "folderName": "Bosses",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

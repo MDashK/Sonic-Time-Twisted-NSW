@@ -1,0 +1,31 @@
+{
+    "id": "031b224a-7e86-4f02-96a2-92aa3bff7a87",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "031b224a-7e86-4f02-96a2-92aa3bff7a87",
+    "children": [
+        "54a1e388-03d2-429e-ad8a-e115b798ebbf",
+        "2c763e49-41f9-4efa-b5de-39562e672286",
+        "7c25cc84-f549-4ac7-b6ec-dae27b14b39a",
+        "c4f9505e-639c-4d59-8f7f-cd230e3640bf",
+        "048911f9-58e9-4acb-ad13-70fb6b4076f9",
+        "e00fadb1-6b75-4ab5-848f-e9c4e9cb9004",
+        "8d73f832-6db1-4f3a-80ba-200fe7d7f5af",
+        "8a79461b-b78e-4691-9796-ff3e0a8a6ec8",
+        "fab1e0e1-2927-4c8b-936b-030448697154",
+        "72699a6d-5ed0-4c82-93da-b76eca8c47e4",
+        "2cadefc2-804a-4bde-8f6e-9ea89cb75cff",
+        "66c8ff82-9aee-4608-b3f5-a38e32ae0dc2",
+        "0966fa1f-a699-4151-946d-dedc1cb8b334",
+        "90f89c55-3182-4027-9be1-a1343de5a11e",
+        "bb369967-431f-4732-81cc-232ff1b656e9",
+        "70fd7790-5663-483a-8a9b-51e670dd62b8",
+        "93753aac-c791-45d2-84d9-d1c3b4923a92",
+        "b53b8949-b2f4-4a3d-a3dc-7a98b1a71999",
+        "21c9ca8a-bf6f-4a4e-beb2-3a82fc6fdbb2"
+    ],
+    "filterType": "GMSprite",
+    "folderName": "Metal Sonic",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

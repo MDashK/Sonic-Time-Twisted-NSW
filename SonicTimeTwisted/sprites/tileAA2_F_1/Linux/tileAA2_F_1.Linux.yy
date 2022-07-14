@@ -1,0 +1,3 @@
+1.0.0←84ff6288-9153-44b5-9e29-d38b0db3a167←84ff6288-9153-44b5-9e29-d38b0db3a167|{
+    "textureGroupId": "1225f6b0-ac20-43bd-a82e-be73fa0b6f4f"
+}
